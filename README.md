@@ -16,4 +16,4 @@ Create a database named `boombros3d_db` or import the provided backup file.
 
 Once the project is running, visit the link below to test the API endpoints:
 
-👉 **[http://localhost:8081/swagger-ui/index.html](https://www.google.com/search?q=http://localhost:8081/swagger-ui/index.html)**
+👉 **(https://www.google.com/search?q=http://localhost:8081/swagger-ui/index.html)**
